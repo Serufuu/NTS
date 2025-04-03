@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Ball
   - Hole
+  - Target
+  - Undefined
   layers:
   - Default
   - TransparentFX
